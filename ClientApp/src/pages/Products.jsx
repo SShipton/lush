@@ -7,7 +7,7 @@ function SingleProductForList(props) {
       <div className="products">
         <div className="">
           <h5 className="">{props.product.name}</h5>
-          <p className="price">{props.product.price}</p>
+          <p className="">{props.product.price}</p>
         </div>
       </div>
     </Link>
